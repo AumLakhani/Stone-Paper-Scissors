@@ -18,10 +18,12 @@ This is a simple Stone-Paper-Scissors game built using HTML , CSS and JavaScript
 2. Computer randomly selects its choice
 3. Result is displayed instantly
 
-## Learning Outcome :
+## Learning Outcome 
 -Dom manipulation
 -Event handling in JavaScript
 -Condition logic
 -Random number generation
 
-##
+##Credits
+- Made by Aum Lakhani
+- Github : https://github.com/AumLakhani
