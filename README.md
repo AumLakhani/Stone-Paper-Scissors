@@ -1,4 +1,4 @@
-﻿#Stone Paper Scissors Game ~~
+﻿##Stone Paper Scissors Game
 
 This is a simple Stone-Paper-Scissors game built using HTML , CSS and JavaScript.
 
@@ -27,3 +27,4 @@ This is a simple Stone-Paper-Scissors game built using HTML , CSS and JavaScript
 ##Credits
 - Made by Aum Lakhani
 - Github : https://github.com/AumLakhani
+
