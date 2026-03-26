@@ -1,31 +1,67 @@
-## Stone Paper Scissors Game
+# ✊✋✌️ Stone Paper Scissor Game
 
-This is a simple Stone-Paper-Scissors game built using HTML , CSS and JavaScript.
+## 📌 Overview
+This is a simple and interactive **Stone Paper Scissor** game built using **HTML, CSS, and JavaScript**. The game allows a user to play against the computer with a clean UI and real-time result display.
 
-## Features
--Player v/s Computer gamePlay
--Random computer choices
--Displays player choice and computer choice
--shows winner on screen 
+It’s a beginner-friendly project focused on improving **logic building** and **DOM manipulation** skills.
 
-## Technologies Used
--HTML
--CSS
--JavaScript
+---
 
-## How to Play
-1. Click on any out of three 
-2. Computer randomly selects its choice
-3. Result is displayed instantly
+## 🚀 Features
+- 🎮 Play against the computer  
+- ⚡ Instant result (Win / Lose / Draw)  
+- 🎨 Simple and responsive UI  
+- 🔄 Score tracking system  
+- 🧠 Random computer choice logic  
 
-## Learning Outcome 
--Dom manipulation
--Event handling in JavaScript
--Condition logic
--Random number generation
+---
 
-## Credits
-- Made by Aum Lakhani
-- Github : https://github.com/AumLakhani
+## 🛠️ Tech Stack
+- **HTML** – Structure of the game  
+- **CSS** – Styling and layout  
+- **JavaScript** – Game logic and interactivity  
 
+
+---
+
+## 🧠 How It Works
+1. User selects **Stone, Paper, or Scissor**
+2. Computer randomly generates a choice
+3. Game compares both choices:
+   - Stone beats Scissor  
+   - Scissor beats Paper  
+   - Paper beats Stone  
+4. Result is displayed on the screen
+5. Score updates accordingly
+
+
+💡 Tip: Take a screenshot of your project and save it as `preview.png` in your project folder.
+
+---
+
+## ▶️ How to Run
+1. Download or clone the repository  
+2. Open `index.html` in your browser  
+3. Start playing 🎉  
+
+---
+
+## 🎯 Learning Outcomes
+- DOM Manipulation  
+- Event Handling  
+- Basic Game Logic  
+- UI Design with CSS  
+
+---
+
+## 📌 Future Improvements
+- Add sound effects 🔊  
+- Add animations 🎬  
+- Multiplayer mode 👥  
+- Mobile optimization 📱  
+
+---
+
+## Build By 
+ Aum Lakhani
 
