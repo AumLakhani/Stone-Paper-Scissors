@@ -35,7 +35,7 @@ It’s a beginner-friendly project focused on improving **logic building** and *
 5. Score updates accordingly
 
 
-💡 Tip: Take a screenshot of your project and save it as `preview.png` in your project folder.
+
 
 ---
 
